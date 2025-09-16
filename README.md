@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--># mattiasBot 🤖  
+Smart. Snabb. Snygg.
+
+![mattiasBot banner](./github-banner.png)
+
+Din personliga AI-chatbot med stil, animationer och intelligens.
+
